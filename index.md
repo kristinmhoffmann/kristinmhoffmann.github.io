@@ -3,12 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am an Associate Librarian at the University of Western Ontario. I received my MLIS from the University of Western Ontario in 2003. I began my career in academic libraries as a science librarian at the University of Victoria in 2004, and I have been at Western since 2006, in various roles. My current research interests are related to the role of academic librarians. This includes the professional identity of academic librarians and the specific role of academic librarians as practitioner-researchers.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- **Conceptions of Research:**  Study with Lise Doucette to investigate how librarians and archivists conceive of research. We will be conducting interviews throughout April 2018.
+- **Journal hosting with [OJS](https://pkp.sfu.ca/ojs/):** Western Libraries hosts over 30 journals, which have been on the bepress Digital Commons platform, and we are in the process of moving them to OJS.
